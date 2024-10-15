@@ -40,4 +40,5 @@ class DashboardController extends Controller
     }
 }
 ```
-9. Selesai
+9. Jangan lupa install package firebase/php-jwt : `composer require firebase/php-jwt:^5.4`
+10. Selesai
